@@ -1,0 +1,6 @@
+{
+  "appId": "com.merahisabkitab.app",
+  "appName": "Mera Hisab Kitab",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
